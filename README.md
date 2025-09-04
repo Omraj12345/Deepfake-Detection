@@ -16,7 +16,7 @@ Digital Forensics Aid – Supports analysts with visual cues on tampered image s
 
 Python 3.8+
 
-TensorFlow / Keras
+TensorFlow 
 
 OpenCV
 
